@@ -1,4 +1,10 @@
 header{
     backgroud-color: red
-    color:
-    text-
+    color: blueviolet;
+    text-align: center;
+}
+main {
+    background-color:blueviolet;
+    color:red
+    text-align: center;
+}
